@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "TTYSKY26a-WIP"      # Project title
+  title:        "TTSKY26a-Design-WIP"    # Project title
   author:       "Gerard Talatinian"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "TTYSKY26a design (Work In progress0"      # One line description of what your project does
