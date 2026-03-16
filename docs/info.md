@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+I will explain how it works once I know what it is I am designing (WIP).
 
 ## How to test
 
-Explain how to use your project
+I will explain how to test this design one I actually have a design (WIP).
+
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Unknow at this point (WIP).
